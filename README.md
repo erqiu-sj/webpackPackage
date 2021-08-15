@@ -1,2 +1,1 @@
-# webpackPackage
-webpack config with typescript
+# webpack config utils
